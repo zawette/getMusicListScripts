@@ -1,0 +1,14 @@
+{
+  "name": "musiclist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getMusicZaw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zawette",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata": "^7.5.0"
+  }
+}
